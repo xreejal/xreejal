@@ -1,16 +1,17 @@
-## Hi there 👋
+# shreejal
 
-<!--
-**xreejal/xreejal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior at UNC Chapel Hill**
 
-Here are some ideas to get you started:
+![alt text](1.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-stack developer with an interest in building scalable applications and exploring emerging technologies. Currently expanding my knowledge in embedded systems while strengthening my foundation across the development stack. Seeking opportunities to contribute to innovative projects and collaborate with talented teams. Always excited to learn, build, and make an impact.
+
+## Languages
+
+**Primary:** Java • TypeScript • Python 
+**Learning:** Go • Phaser 
+
+## Technologies
+
+Node.js • React • NumPy • PyTorch • Spring Boot
+
