@@ -1,6 +1,4 @@
-# shreejal
-
-**computer science bs. and chem minor at unc chapel hill**
+**Comp sci at UNC Chapel Hill**
 
 ![Coding Animation](https://media.tenor.com/vTNxZtc3EoMAAAAM/dragonite-pokemon.gif)
 
@@ -8,10 +6,10 @@ Full-stack developer with an interest in building scalable applications and expl
 
 ## Languages
 
-**Primary:** Java • TypeScript • Python 
+**Primary:** Java • TypeScript • Python • SQL •
 **Learning:** Go • Phaser 
 
-## Technologies
+## Technologies Most Familiar With
 
-Node.js • React • NumPy • PyTorch • Spring Boot
+Node.js • React • NumPy • PyTorch • Spring Boot • Google Earth Engine • Tailwind CSS 
 
