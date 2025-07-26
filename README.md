@@ -1,4 +1,4 @@
-**comp sci at UNC Chapel Hill**
+**Comp sci student at UNC Chapel Hill**
 
 ![Coding Animation](https://media.tenor.com/vTNxZtc3EoMAAAAM/dragonite-pokemon.gif)
 
