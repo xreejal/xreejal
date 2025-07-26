@@ -6,10 +6,10 @@ Full-stack developer with an interest in building scalable applications and expl
 
 ## Languages
 
-**Primary:** Java • TypeScript • Python • SQL <br>
-**Learning:** Go • Phaser 
+**Currently Learning Learning:** Go • Phaser <br>
+**Most Proficient in:** Java • TypeScript • Python 
 
 ## Technologies Most Familiar With
 
-Node.js • React • NumPy • PyTorch • Spring Boot • Google Earth Engine • Tailwind CSS • Supabase 
+Node.js • React • NumPy • PyTorch • Google Earth Engine • Tailwind CSS  
 
