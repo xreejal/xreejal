@@ -6,7 +6,7 @@ Full-stack developer with an interest in building scalable applications and expl
 
 ## Languages
 
-**Currently Learning Learning:** Go • Phaser <br>
+**Currently Learning:** Go • Phaser <br> <br>
 **Most Proficient in:** Java • TypeScript • Python 
 
 ## Technologies Most Familiar With
