@@ -6,7 +6,7 @@ Full-stack developer with an interest in building scalable applications and expl
 
 ## Languages
 
-**Primary:** Java • TypeScript • Python • SQL •
+**Primary:** Java • TypeScript • Python • SQL <br>
 **Learning:** Go • Phaser 
 
 ## Technologies Most Familiar With
