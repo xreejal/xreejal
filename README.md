@@ -1,6 +1,6 @@
 # shreejal
 
-**junior at UNC Chapel Hill**
+**computer science bs. and chem minor at unc chapel hill**
 
 ![Coding Animation](https://media.tenor.com/vTNxZtc3EoMAAAAM/dragonite-pokemon.gif)
 
