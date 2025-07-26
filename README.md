@@ -11,5 +11,5 @@ Full-stack developer with an interest in building scalable applications and expl
 
 ## Technologies Most Familiar With
 
-Node.js • React • NumPy • PyTorch • Spring Boot • Google Earth Engine • Tailwind CSS 
+Node.js • React • NumPy • PyTorch • Spring Boot • Google Earth Engine • Tailwind CSS • Supabase 
 
