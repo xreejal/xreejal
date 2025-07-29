@@ -6,10 +6,10 @@ Hey, I am seeking opportunities to contribute to innovative projects and collabo
 
 ## Languages
 
-**Currently Learning:** Go • Phaser <br>
-**Most Proficient in:** Java • TypeScript • Python 
+**Currently Learning:** Nodejs/Express • Typescript <br>
+**Most Proficient in:** Java • Python 
 
 ## Technologies Most Proficient In
 
-Node.js • React • NumPy • PyTorch • Google Earth Engine • Tailwind CSS  
+NumPy • PyTorch • Google Earth Engine • Figma  
 
