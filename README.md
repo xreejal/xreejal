@@ -6,8 +6,8 @@ Hey, I am seeking opportunities to contribute to innovative projects and collabo
 
 ## Languages
 
-**Currently Learning:** Nodejs/Express • Typescript <br>
-**Most Proficient in:** Java • Python 
+
+**Most Proficient in:** Java • Python • Nodejs/Express • Typescript
 
 ## Technologies Most Proficient In
 
